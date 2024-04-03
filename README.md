@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## introduction
+안녕하세요.
+SW프로세스를 좋아합니다.
+최근 관심을 가지고 보고 있는 분야는 [SW_Bing]입니다.
+
+## career
+영남대학교 재학생
+
+## links
+email - lalascope@naver.com
